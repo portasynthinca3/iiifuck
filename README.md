@@ -1,6 +1,6 @@
 # iiifuck
 A Brainfuck clone that uses only three characters: I, l and |. That is, uppercase `i`, lowercase `L` and a `|` pipe. A combination of two of these characters forms an instruction. Here's the mapping:
-
+```
 | iiifuck instruction | brainfuck instruction |
 |---------------------|-----------------------|
 |         `II`        |          `>`          |
@@ -11,6 +11,7 @@ A Brainfuck clone that uses only three characters: I, l and |. That is, uppercas
 |         `l|`        |          `,`          |
 |         `|I`        |          `[`          |
 |         `|l`        |          `]`          |
+```
 
 # usage
   - `python3 iiifuck.py filename.iiif` to run an iiifuck program
