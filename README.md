@@ -20,6 +20,6 @@ A Brainfuck clone that uses only three characters: I, l and |. That is, uppercas
 
 # example
 
-`I|I|I|I|I|I|I|I|I|I||IIII|I|I|I|I|I|I|III|I|I|I|I|I|I|I|I|I|III|I|I|III|IlIlIlIllI|lIII|I|llIII|llI|I|I|I|I|I|I|llllI|I|I|llIII|I|llIlIlI|I|I|I|I|I|I|I|I|I|I|I|I|I|I|llIIllI|I|I|lllIlIlIlIlIlIlllIlIlIlIlIlIlIlIllIII|llIIll`
+```I|I|I|I|I|I|I|I|I|I||IIII|I|I|I|I|I|I|III|I|I|I|I|I|I|I|I|I|III|I|I|III|IlIlIlIllI|lIII|I|llIII|llI|I|I|I|I|I|I|llllI|I|I|llIII|I|llIlIlI|I|I|I|I|I|I|I|I|I|I|I|I|I|I|llIIllI|I|I|lllIlIlIlIlIlIlllIlIlIlIlIlIlIlIllIII|llIIll```
 
 Prints `Hello, World!`
