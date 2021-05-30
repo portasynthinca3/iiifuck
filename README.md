@@ -3,14 +3,14 @@ A Brainfuck clone that uses only three characters: I, l and |. That is, uppercas
 ```
 | iiifuck instruction | brainfuck instruction |
 |---------------------|-----------------------|
-|         `II`        |          `>`          |
-|         `Il`        |          `<`          |
-|         `I|`        |          `+`          |
-|         `lI`        |          `-`          |
-|         `ll`        |          `.`          |
-|         `l|`        |          `,`          |
-|         `|I`        |          `[`          |
-|         `|l`        |          `]`          |
+|          II         |           >           |
+|          Il         |           <           |
+|          I|         |           +           |
+|          lI         |           -           |
+|          ll         |           .           |
+|          l|         |           ,           |
+|          |I         |           [           |
+|          |l         |           ]           |
 ```
 
 # usage
